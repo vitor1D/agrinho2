@@ -24,3 +24,12 @@ Ela combina HTML, CSS e JavaScript para oferecer conteúdo educativo e interativ
 - **CSS3** – Estilização e layout.  
 - **JavaScript** – Interatividade do botão de mensagens.
 
+
+---
+
+## ▶️ Como Executar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/agro-forte.git
